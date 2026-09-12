@@ -1,6 +1,6 @@
 # UniFi Patch Upgrade Nag
 
-Removes the "Upgrade to UniFi OS Server" nag modal from the UniFi Network Application.
+Removes the insanely annoying "Upgrade to UniFi OS Server" nag pop-up modal from the UniFi Network Application.
 
 ## Instructions
 
