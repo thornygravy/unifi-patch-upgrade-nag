@@ -26,7 +26,7 @@ volumes:
 
 ## Notes
 
-Tested working on 10.6.101.
+Tested working on 10.6.106.
 
 ## License
 
